@@ -22,7 +22,7 @@ Note: The current version of this project is only internally accessible by FUTO 
 User Login and Authentication
 - Implementation of the [swiclops](https://gitlab.futo.org/cvwright/swiclops) authentication flows
      - Username and password validation/verification
-     - [BS-SPEKE](https://gitlab.futo.org/cvwright/Cbsspeke/-/blob/main/Sources/Cbsspeke/bsspeke.c) (Blind-Salt adaptation of [SPEKE](https://en.wikipedia.org/wiki/SPEKE#:~:text=SPEKE%20is%20one%20of%20the,with%20a%20constant%20gq.)cryptographic password verification
+     - [BS-SPEKE](https://gitlab.futo.org/cvwright/Cbsspeke/-/blob/main/Sources/Cbsspeke/bsspeke.c) (Blind-Salt adaptation of [SPEKE])(https://en.wikipedia.org/wiki/SPEKE#:~:text=SPEKE%20is%20one%20of%20the,with%20a%20constant%20gq.) cryptographic password verification
 - Essential upload, delete, and display functionality
     - Fetching of existing files from "Photos" room on server and displays to /photos home screen
     - Uploading of x number of files to "Photos" room on server followed by display update
