@@ -26,6 +26,7 @@ User Login and Authentication
 - Essential upload, delete, and display functionality
     - Fetching of existing files from "Photos" room on server and displays to /photos home screen
     - Uploading of x number of files to "Photos" room on server followed by display update
+    - Syncing of files in a Circles account for cross-platform and application access
     - Enlarging of files by clicking on them with custom routes setup and planned image view/edit options
     - Deletion of files by sending deletion event to "Photos" room on server followed by display update
 
